@@ -1,5 +1,5 @@
 
-FROM debian:latest
+FROM ubuntu:latest
 
 LABEL maintainer="Lars Lühr and contributors <https://github.com/ayeks/reverse_shell>"
 
